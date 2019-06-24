@@ -1,2 +1,2 @@
-# dragynware-copyright
-The copyright page for dragynware
+# dragynware-privacy-policy
+The privacy policy page for dragynware
